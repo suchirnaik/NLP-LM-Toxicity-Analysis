@@ -1,4 +1,4 @@
-# NLP Language Models Project\
+# NLP Language Models Project
 
 ## Overview
 
