@@ -35,6 +35,6 @@ During this project, I'll complete the following tasks:
 
 3. Analyze and make observations based on the model performances. I'll calculate averages of scores for LM_full and compare them to LM_not to determine if the models are effectively capturing the language they were trained on.
 
-4. Document all observations and findings in a report document. Please refere to the word document
+4. Document all observations and findings in a report document. Please refere to the report 
 
 Feel free to explore the code and report to see the insights and results of this NLP project!
