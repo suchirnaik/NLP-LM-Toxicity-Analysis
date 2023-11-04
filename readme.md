@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my Natural Language Processing (NLP) Language Models project! In this project, I'll be working with Language Models (LMs) to analyze a dataset. The main goal is to explore the capabilities of LMs and understand their performance in the context of NLP.\
+Welcome to my Natural Language Processing (NLP) Language Models project! In this project, I'll be working with Language Models (LMs) to analyze a dataset. The main goal is to explore the capabilities of LMs and understand their performance in the context of NLP.
 
 ## Dataset
 
