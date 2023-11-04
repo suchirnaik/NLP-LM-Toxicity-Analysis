@@ -8,12 +8,12 @@ Welcome to my Natural Language Processing (NLP) Language Models project! In this
 
 The dataset chosen for this project is the "Toxic Comment Dataset." It's important to note that this dataset contains toxic comments, so please exercise caution when reviewing the data. You can access both the training and test sets [here](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data).
 
-- **Training Set (train.csv):** This set will be used for training our Language Models.\
+- **Training Set (train.csv):** This set will be used for training our Language Models.
 - **Test Set (test.csv) and Labels (test_labels.csv):** These files will be used for testing and analyzing our models. It's crucial to understand how the training and test sets are structured.
 
 ## Language Model Tasks
 
-As part of this project, I'll be implementing two essential functions for Language Models:\
+As part of this project, I'll be implementing two essential functions for Language Models:
 
 1. **train_LM(path_to_train_file):** This function will train a Language Model (up to a bigram model) using the provided training data file. The training data file should follow the same format as the training data.\
 
